@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: b22cbd42-49c3-48d8-9d39-81393eb05f1d
+    secure: 78f2658b-7158-498e-a177-386d3fa4abb8
   app: devops-carlinhos
